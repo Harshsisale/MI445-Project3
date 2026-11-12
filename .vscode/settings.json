@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "MI445-Project2.slnx"
+    "dotnet.defaultSolution": "MI445-Project3.slnx"
 }
