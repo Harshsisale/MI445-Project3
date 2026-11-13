@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: BaseStats
   m_EditorClassIdentifier: Assembly-CSharp::ODMStats
   MaxWalkSpeed: 6
-  MaxRunSpeed: 10
+  MaxRunSpeed: 12
   SlideFactor: 0.3
-  Acceleration: 5
+  Acceleration: 6
   Drag: 8
   PullStrength: 3
   GrowthExponent: 2

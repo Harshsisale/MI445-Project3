@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: SlowedStats
   m_EditorClassIdentifier: Assembly-CSharp::ODMStats
   MaxWalkSpeed: 3
-  MaxRunSpeed: 4
+  MaxRunSpeed: 6
   SlideFactor: 0.3
-  Acceleration: 15
-  Drag: 15
+  Acceleration: 6
+  Drag: 8
   PullStrength: 3
   GrowthExponent: 2
   MinPullDistance: 1

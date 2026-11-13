@@ -56,6 +56,8 @@ public class ODMPlayerController : MonoBehaviour
     private void Move()
     {
         float maxSpeed = InputManager.boostHeld ? currentStats.MaxRunSpeed : currentStats.MaxWalkSpeed;
+        InputManager.HandleVibration();
+
         Vector2 targetVelocity = moveDirection * maxSpeed;
         
         float rate = moveDirection.sqrMagnitude > 0.01f ? currentStats.Acceleration : currentStats.Drag;

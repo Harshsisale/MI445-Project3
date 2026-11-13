@@ -56,8 +56,6 @@ public class InputManager : MonoBehaviour
             usingGamepad = true;
         else if (Mouse.current != null && Mouse.current.delta.ReadValue().sqrMagnitude > 0.1) 
             usingGamepad = false;
-
-        HandleVibration();
     }
 
     public static Vector2 GetAimDirection(Vector3 origin)
@@ -81,7 +79,7 @@ public class InputManager : MonoBehaviour
         return lastAimDirection;
     }
 
-    private void HandleVibration()
+    public static void HandleVibration()
     {
         if (Gamepad.current == null) return;
 
