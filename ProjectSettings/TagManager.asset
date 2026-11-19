@@ -13,7 +13,7 @@ TagManager:
   - UI
   - Diego
   - 
-  - 
+  - Player
   - 
   - 
   - 
@@ -40,6 +40,15 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1715557479
+    locked: 0
+  - name: Player
+    uniqueID: 897947069
+    locked: 0
+  - name: Foreground
+    uniqueID: 3285373345
     locked: 0
   m_RenderingLayers:
   - Default
