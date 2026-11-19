@@ -903,7 +903,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c52309f99304304fb08d59ffcdebea0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelTransition
-  sceneStrToLoad: MinervaTestScene
+  sceneStrToLoad: Planet
 --- !u!58 &2059813183
 CircleCollider2D:
   m_ObjectHideFlags: 0
