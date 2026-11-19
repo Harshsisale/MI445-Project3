@@ -365,6 +365,7 @@ GameObject:
   - component: {fileID: 5785642004573029946}
   - component: {fileID: 6399312966242409434}
   - component: {fileID: 8749314733887814271}
+  - component: {fileID: 5154220947246011426}
   m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
@@ -387,6 +388,7 @@ Transform:
   m_Children:
   - {fileID: 3142462778593802417}
   - {fileID: 8813497997216486732}
+  - {fileID: 3506885399615307587}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5885545140597845335
@@ -457,6 +459,25 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &5154220947246011426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3877253656231053652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 430da9b69d426d24d8dd307d562d360e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CableController
+  interactRange: 1
+  cableOrigin: {fileID: 3506885399615307587}
+  cableMaterial: {fileID: 0}
+  cableWidth: 0.3
+  cableColor: {r: 0.34901965, g: 0.81017685, b: 1, a: 1}
+  sortingOrder: 10
+  sortingLayerName: Player
 --- !u!1 &4118761345148236600
 GameObject:
   m_ObjectHideFlags: 0
@@ -573,3 +594,34 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!1 &5393540382364858078
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3506885399615307587}
+  m_Layer: 0
+  m_Name: CableOrigin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3506885399615307587
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5393540382364858078}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8996635531723791475}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
