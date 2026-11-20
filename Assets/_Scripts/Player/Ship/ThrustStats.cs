@@ -4,8 +4,8 @@ using UnityEngine;
 
 
 
-[CreateAssetMenu(fileName = "NewODMStats", menuName = "ODM/ODM Stats")]
-public class ODMStats : ScriptableObject
+[CreateAssetMenu(fileName = "NewThrustStats", menuName = "Ship/Thrust Stats")]
+public class ThrustStats : ScriptableObject
 {
     [Header("Movement")]
     public float MaxWalkSpeed = 12.5f;
