@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 1e35c7e672320cf4982cad64922598a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1490592563335264954
+    second: mothgirl_side_0
+  - first:
+      213: -4223373775057753242
+    second: mothgirl_side_1
+  - first:
+      213: -7910522180064627354
+    second: mothgirl_side_2
+  - first:
+      213: -4654942093105209282
+    second: mothgirl_side_3
+  - first:
+      213: -7632649867586188769
+    second: mothgirl_side_4
+  - first:
+      213: 1060316238398492224
+    second: mothgirl_side_5
+  - first:
+      213: -1076051566052345634
+    second: mothgirl_side_6
+  - first:
+      213: -7128003302716915906
+    second: mothgirl_side_7
+  - first:
+      213: 8616788919597227482
+    second: mothgirl_side_8
+  - first:
+      213: 6278875427144944414
+    second: mothgirl_side_9
+  - first:
+      213: -7725124909806982593
+    second: mothgirl_side_10
+  - first:
+      213: 2835300966378644992
+    second: mothgirl_side_11
+  - first:
+      213: -6819171850944840886
+    second: mothgirl_side_12
+  - first:
+      213: 1037909683114391467
+    second: mothgirl_side_13
+  - first:
+      213: -4115317803949432366
+    second: mothgirl_side_14
+  - first:
+      213: -4519801956082931836
+    second: mothgirl_side_15
+  - first:
+      213: 3300783182496518604
+    second: mothgirl_side_16
+  - first:
+      213: -1855536461646180223
+    second: mothgirl_side_17
+  - first:
+      213: -4978795384110369450
+    second: mothgirl_side_18
+  - first:
+      213: -4063526905635485957
+    second: mothgirl_side_19
+  - first:
+      213: 1444567342279289240
+    second: mothgirl_side_20
+  - first:
+      213: 6897531816149159149
+    second: mothgirl_side_21
+  - first:
+      213: 3676686812483361045
+    second: mothgirl_side_22
+  - first:
+      213: 1074487389168825576
+    second: mothgirl_side_23
+  - first:
+      213: 2516215610669871111
+    second: mothgirl_side_24
+  - first:
+      213: -6106638931440897447
+    second: mothgirl_side_25
+  - first:
+      213: 2080976755139235472
+    second: mothgirl_side_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mothgirl_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3077
+        width: 405
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645009d06f9505be0800000000000000
+      internalID: -1490592563335264954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3075
+        width: 394
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b6bff8def8365c0800000000000000
+      internalID: -4223373775057753242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_2
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 3073
+        width: 371
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665366d2dfd283290800000000000000
+      internalID: -7910522180064627354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_3
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3071
+        width: 338
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30637a44d2566fb0800000000000000
+      internalID: -4654942093105209282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2559
+        width: 309
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac79b8261631690800000000000000
+      internalID: -7632649867586188769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_5
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2559
+        width: 287
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e0253400007be00800000000000000
+      internalID: 1060316238398492224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_6
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2559
+        width: 272
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed872754dc81111f0800000000000000
+      internalID: -1076051566052345634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_7
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2559
+        width: 260
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f3fbf03ce341d90800000000000000
+      internalID: -7128003302716915906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2047
+        width: 255
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add5d116edbf49770800000000000000
+      internalID: 8616788919597227482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_9
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2047
+        width: 269
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b47ef1feb032750800000000000000
+      internalID: 6278875427144944414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_10
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2047
+        width: 291
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aee61f2d7dac490800000000000000
+      internalID: -7725124909806982593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_11
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2048
+        width: 310
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0062254f433095720800000000000000
+      internalID: 2835300966378644992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1536
+        width: 320
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bf612c45f6d51a0800000000000000
+      internalID: -6819171850944840886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1536
+        width: 320
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7b8f29b55676e00800000000000000
+      internalID: 1037909683114391467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_14
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1537
+        width: 313
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1e0cdd24473e6c0800000000000000
+      internalID: -4115317803949432366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_15
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1539
+        width: 308
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487af8061107641c0800000000000000
+      internalID: -4519801956082931836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1029
+        width: 301
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1d941f0dcbecd20800000000000000
+      internalID: 3300783182496518604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1031
+        width: 292
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1805bcf4b6fcf36e0800000000000000
+      internalID: -1855536461646180223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_18
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1034
+        width: 297
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6553fb81af3c7eab0800000000000000
+      internalID: -4978795384110369450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_19
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1037
+        width: 297
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6ca5e0fc37b97c0800000000000000
+      internalID: -4063526905635485957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 528
+        width: 299
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899efaa18522c0410800000000000000
+      internalID: 1444567342279289240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_21
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 526
+        width: 300
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec868064a4f8bf50800000000000000
+      internalID: 6897531816149159149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_22
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 523
+        width: 318
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5191f601d27360330800000000000000
+      internalID: 3676686812483361045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_23
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 521
+        width: 344
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e47b0b669859ee00800000000000000
+      internalID: 1074487389168825576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 7
+        width: 371
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700354434c46be220800000000000000
+      internalID: 2516215610669871111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_25
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 6
+        width: 392
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952f4e70f3cd04ba0800000000000000
+      internalID: -6106638931440897447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_side_26
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 5
+        width: 403
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e4be3555d11ec10800000000000000
+      internalID: 2080976755139235472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mothgirl_side_0: -1490592563335264954
+      mothgirl_side_1: -4223373775057753242
+      mothgirl_side_10: -7725124909806982593
+      mothgirl_side_11: 2835300966378644992
+      mothgirl_side_12: -6819171850944840886
+      mothgirl_side_13: 1037909683114391467
+      mothgirl_side_14: -4115317803949432366
+      mothgirl_side_15: -4519801956082931836
+      mothgirl_side_16: 3300783182496518604
+      mothgirl_side_17: -1855536461646180223
+      mothgirl_side_18: -4978795384110369450
+      mothgirl_side_19: -4063526905635485957
+      mothgirl_side_2: -7910522180064627354
+      mothgirl_side_20: 1444567342279289240
+      mothgirl_side_21: 6897531816149159149
+      mothgirl_side_22: 3676686812483361045
+      mothgirl_side_23: 1074487389168825576
+      mothgirl_side_24: 2516215610669871111
+      mothgirl_side_25: -6106638931440897447
+      mothgirl_side_26: 2080976755139235472
+      mothgirl_side_3: -4654942093105209282
+      mothgirl_side_4: -7632649867586188769
+      mothgirl_side_5: 1060316238398492224
+      mothgirl_side_6: -1076051566052345634
+      mothgirl_side_7: -7128003302716915906
+      mothgirl_side_8: 8616788919597227482
+      mothgirl_side_9: 6278875427144944414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
