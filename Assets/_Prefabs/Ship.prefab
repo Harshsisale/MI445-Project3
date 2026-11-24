@@ -232,8 +232,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fef000d6617a01743b443da2e1eafb03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ODMPlayerController
-  odmStats: {fileID: 11400000, guid: 65db027e178e12f4ebe4e15962d7e7eb, type: 2}
-  slowedOdmStats: {fileID: 11400000, guid: 62b2348090ef9b746afc9f6be27f0665, type: 2}
+  thrustStats: {fileID: 11400000, guid: 65db027e178e12f4ebe4e15962d7e7eb, type: 2}
+  slowedThrustStats: {fileID: 11400000, guid: 62b2348090ef9b746afc9f6be27f0665, type: 2}
   turnSpeed: 360
   gravSource: {fileID: 0}
   overlapLayer:

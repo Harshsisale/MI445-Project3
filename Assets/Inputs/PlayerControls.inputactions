@@ -37,6 +37,16 @@
                     "priority": 0
                 },
                 {
+                    "name": "Propel",
+                    "type": "Button",
+                    "id": "d81ddb10-652a-48dc-b52a-f66a04be4e5d",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
                     "name": "Interact",
                     "type": "Button",
                     "id": "8c424929-28c7-4da8-8cb6-aaa2b5a59e70",
@@ -201,17 +211,6 @@
                     "isPartOfComposite": false
                 },
                 {
-                    "name": "",
-                    "id": "7082d1f3-d13f-496b-a422-895ed639d3dc",
-                    "path": "<Gamepad>/rightStick",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Aim",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
                     "name": "Arrow Keys",
                     "id": "ee17b15c-610d-4bea-ad37-cc3104f1bcb7",
                     "path": "2DVector",
@@ -268,12 +267,45 @@
                 },
                 {
                     "name": "",
+                    "id": "c2adf636-c5f1-42a5-a271-127d1d81b444",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Aim",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "74173b1f-1bd6-461e-89d8-c50d68ec161b",
                     "path": "<Mouse>/position",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
                     "action": "Cursor",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6fa1c22e-5717-4a2d-83c6-1f1cce9b4a84",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Propel",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "61633bc3-fc17-4431-a09c-99b3a481e2e4",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Propel",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

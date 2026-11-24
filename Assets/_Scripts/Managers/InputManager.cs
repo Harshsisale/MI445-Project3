@@ -12,11 +12,13 @@ public class InputManager : MonoBehaviour
     public static bool usingGamepad;
 
     public static bool boostHeld;
+    public static bool propelHeld;
     public static bool dashPressed;
     public static bool interactPressed;
 
     private InputAction moveAction;
     private InputAction boostAction;
+    private InputAction propelAction;
     private InputAction dashAction;
     private InputAction interactAction;
     private InputAction cursorPos;
@@ -33,6 +35,7 @@ public class InputManager : MonoBehaviour
 
         moveAction = playerInput.actions["Move"];
         boostAction = playerInput.actions["Boost"];
+        propelAction = playerInput.actions["Propel"];
         dashAction = playerInput.actions["Dash"];
 
         interactAction = playerInput.actions["Interact"];
@@ -48,6 +51,7 @@ public class InputManager : MonoBehaviour
         stickAim = aimAction.ReadValue<Vector2>();
 
         boostHeld = boostAction.IsPressed();
+        propelHeld = propelAction.IsPressed();
         
         dashPressed = dashAction.WasPressedThisFrame();
         interactPressed = interactAction.WasPressedThisFrame();
@@ -83,7 +87,8 @@ public class InputManager : MonoBehaviour
     {
         if (Gamepad.current == null) return;
 
-        if (boostHeld) Gamepad.current.SetMotorSpeeds(0.05f, 0.1f);
+        if (propelHeld) Gamepad.current.SetMotorSpeeds(0.025f, 0.025f);
+        else if (propelHeld && boostHeld) Gamepad.current.SetMotorSpeeds(0.05f, 0.1f);
         else Gamepad.current.ResetHaptics();
     }
 
