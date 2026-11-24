@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: c701fba654b853c47abcebc70dda6bfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2521504294713530839
+    second: test front_0
+  - first:
+      213: -6864979576983384438
+    second: test front_1
+  - first:
+      213: -1472252019791544260
+    second: test front_2
+  - first:
+      213: 5818784648898350568
+    second: test front_3
+  - first:
+      213: -7466835833721484166
+    second: test front_4
+  - first:
+      213: 121821476744554186
+    second: test front_5
+  - first:
+      213: 3952537467262113882
+    second: test front_6
+  - first:
+      213: 4390715138498328604
+    second: test front_7
+  - first:
+      213: 3276746779352721111
+    second: test front_8
+  - first:
+      213: -7724509942459203249
+    second: test front_9
+  - first:
+      213: 1309966563952033522
+    second: test front_10
+  - first:
+      213: 1097400634769912485
+    second: test front_11
+  - first:
+      213: 7386181318192161672
+    second: test front_12
+  - first:
+      213: 2007179912779894031
+    second: test front_13
+  - first:
+      213: 322285170393871173
+    second: test front_14
+  - first:
+      213: 4993654255372660007
+    second: test front_15
+  - first:
+      213: -8179342046277722134
+    second: test front_16
+  - first:
+      213: -16443126841821592
+    second: test front_17
+  - first:
+      213: 4442911669675970182
+    second: test front_18
+  - first:
+      213: -584987506566250917
+    second: test front_19
+  - first:
+      213: 5925206045302398051
+    second: test front_20
+  - first:
+      213: -7578825055165981668
+    second: test front_21
+  - first:
+      213: -587261753266041843
+    second: test front_22
+  - first:
+      213: -4281328836145973670
+    second: test front_23
+  - first:
+      213: 7765725868794925599
+    second: test front_24
+  - first:
+      213: -4694200006423798391
+    second: test front_25
+  - first:
+      213: 5198241682633784457
+    second: test front_26
+  - first:
+      213: -2094249641327658303
+    second: test front_27
+  - first:
+      213: -122646373917302349
+    second: test front_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: test front_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3585
+        width: 306
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9950aebce2ef220800000000000000
+      internalID: 2521504294713530839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_1
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 3586
+        width: 306
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e089b6271bab0a0800000000000000
+      internalID: -6864979576983384438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_2
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 3590
+        width: 303
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30497c9692819be0800000000000000
+      internalID: -1472252019791544260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_3
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3595
+        width: 306
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed05161fc970c050800000000000000
+      internalID: 5818784648898350568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3087
+        width: 311
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c8fd6ce58706890800000000000000
+      internalID: -7466835833721484166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 3092
+        width: 315
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac66f57dcfbc0b100800000000000000
+      internalID: 121821476744554186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_6
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 3092
+        width: 318
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58949192eb3ad630800000000000000
+      internalID: 3952537467262113882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_7
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3088
+        width: 321
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c187f1cc724feec30800000000000000
+      internalID: 4390715138498328604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2572
+        width: 323
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6693ab5d7597d20800000000000000
+      internalID: 3276746779352721111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_9
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2569
+        width: 331
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f410fbf22270dc490800000000000000
+      internalID: -7724509942459203249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_10
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 2566
+        width: 337
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feffff36afed2210800000000000000
+      internalID: 1309966563952033522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_11
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2564
+        width: 341
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2bfb32010ca3f00800000000000000
+      internalID: 1097400634769912485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2050
+        width: 345
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883687576ccf08660800000000000000
+      internalID: 7386181318192161672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2049
+        width: 347
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d8b850f7feadb10800000000000000
+      internalID: 2007179912779894031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_14
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2049
+        width: 347
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f3b9a7acf87400800000000000000
+      internalID: 322285170393871173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_15
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2050
+        width: 344
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dea9676160d4540800000000000000
+      internalID: 4993654255372660007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1540
+        width: 340
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef1333beb32d7e80800000000000000
+      internalID: -8179342046277722134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1542
+        width: 335
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866b891301595cff0800000000000000
+      internalID: -16443126841821592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_18
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1546
+        width: 328
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e497fbf9468ad30800000000000000
+      internalID: 4442911669675970182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_19
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1550
+        width: 329
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eb31156f4b1e7f0800000000000000
+      internalID: -584987506566250917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1038
+        width: 324
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c1f3f418f8a3250800000000000000
+      internalID: 5925206045302398051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_21
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1034
+        width: 301
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c500444ca92d690800000000000000
+      internalID: -7578825055165981668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_22
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1031
+        width: 292
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c876efb80a9d7f0800000000000000
+      internalID: -587261753266041843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_23
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1029
+        width: 284
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56f1e26b1aa594c0800000000000000
+      internalID: -4281328836145973670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 515
+        width: 306
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f125598788665cb60800000000000000
+      internalID: 7765725868794925599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_25
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 514
+        width: 306
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d197017f9dadeb0800000000000000
+      internalID: -4694200006423798391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_26
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 513
+        width: 306
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cf306d44dd32840800000000000000
+      internalID: 5198241682633784457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_27
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 513
+        width: 306
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cafca90c0bbfe2e0800000000000000
+      internalID: -2094249641327658303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test front_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 306
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b16ba1d5c54c4ef0800000000000000
+      internalID: -122646373917302349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      test front_0: 2521504294713530839
+      test front_1: -6864979576983384438
+      test front_10: 1309966563952033522
+      test front_11: 1097400634769912485
+      test front_12: 7386181318192161672
+      test front_13: 2007179912779894031
+      test front_14: 322285170393871173
+      test front_15: 4993654255372660007
+      test front_16: -8179342046277722134
+      test front_17: -16443126841821592
+      test front_18: 4442911669675970182
+      test front_19: -584987506566250917
+      test front_2: -1472252019791544260
+      test front_20: 5925206045302398051
+      test front_21: -7578825055165981668
+      test front_22: -587261753266041843
+      test front_23: -4281328836145973670
+      test front_24: 7765725868794925599
+      test front_25: -4694200006423798391
+      test front_26: 5198241682633784457
+      test front_27: -2094249641327658303
+      test front_28: -122646373917302349
+      test front_3: 5818784648898350568
+      test front_4: -7466835833721484166
+      test front_5: 121821476744554186
+      test front_6: 3952537467262113882
+      test front_7: 4390715138498328604
+      test front_8: 3276746779352721111
+      test front_9: -7724509942459203249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
