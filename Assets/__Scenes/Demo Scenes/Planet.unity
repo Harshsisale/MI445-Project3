@@ -119,6 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!212 &30076143 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 1878950673894116775, guid: 1104ba040e5fd8841b975659d18af2cc, type: 3}
+  m_PrefabInstance: {fileID: 7844836238055475747}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &50311334
 GameObject:
   m_ObjectHideFlags: 0
@@ -3524,10 +3529,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1878950673894116775, guid: 1104ba040e5fd8841b975659d18af2cc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -295707768262760215, guid: 909d59fa8b996b9449cbe1da2bc6db5e, type: 3}
+    - target: {fileID: 3142462778593802417, guid: 1104ba040e5fd8841b975659d18af2cc, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3142462778593802417, guid: 1104ba040e5fd8841b975659d18af2cc, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3142462778593802417, guid: 1104ba040e5fd8841b975659d18af2cc, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 3877253656231053652, guid: 1104ba040e5fd8841b975659d18af2cc, type: 3}
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 5885545140597845335, guid: 1104ba040e5fd8841b975659d18af2cc, type: 3}
+      propertyPath: playerSprite
+      value: 
+      objectReference: {fileID: 30076143}
     - target: {fileID: 8996635531723791475, guid: 1104ba040e5fd8841b975659d18af2cc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.95
@@ -3569,7 +3594,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 147664803066233179, guid: 1104ba040e5fd8841b975659d18af2cc, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 3877253656231053652, guid: 1104ba040e5fd8841b975659d18af2cc, type: 3}

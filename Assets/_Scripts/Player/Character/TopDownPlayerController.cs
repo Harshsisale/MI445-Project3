@@ -7,7 +7,8 @@ public class TopDownPlayerController : MonoBehaviour
 
     [SerializeField] private Facing facingDirection;
     [SerializeField] private float walkSpeed = 5f;
-    [SerializeField] private bool flipX;    
+    [SerializeField] private bool flipX;
+    [SerializeField] private SpriteRenderer playerSprite;
     
     private Vector2 moveDirection;
     private Rigidbody2D rb;
@@ -68,8 +69,8 @@ public class TopDownPlayerController : MonoBehaviour
     private void Move()
     {
         rb.MovePosition(rb.position + moveDirection * walkSpeed * Time.fixedDeltaTime);
-        transform.rotation = Quaternion.Euler(0f, 0f, flipX ? 180f : 0f);
 
+        playerSprite.flipX = !flipX;
         // animation stuff? State machine, maybe?
         
     }

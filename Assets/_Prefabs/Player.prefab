@@ -406,6 +406,7 @@ MonoBehaviour:
   facingDirection: 2
   walkSpeed: 5
   flipX: 0
+  playerSprite: {fileID: 1878950673894116775}
 --- !u!114 &5785642004573029946
 MonoBehaviour:
   m_ObjectHideFlags: 0
