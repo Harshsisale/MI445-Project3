@@ -11,5 +11,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/__Scenes/Demo Scenes/Planet.unity
     guid: f783a876f7d28a34dbeb549979f047d6
+  - enabled: 1
+    path: Assets/__Scenes/text-testing.unity
+    guid: a82527e4112eb51479f4a4f55678be9c
+  - enabled: 1
+    path: Assets/__Scenes/MinervaTestScene.unity
+    guid: cd4cb322778096d4d940146ecb43561c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
