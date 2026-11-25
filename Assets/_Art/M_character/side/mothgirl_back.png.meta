@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: c045e8fc0d7615b49a2c567618ce7dd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7894186984047875285
+    second: mothgirl_back_0
+  - first:
+      213: -3319222020756480400
+    second: mothgirl_back_1
+  - first:
+      213: -4678151467996176930
+    second: mothgirl_back_2
+  - first:
+      213: 4612027927503236423
+    second: mothgirl_back_3
+  - first:
+      213: -6238766095925679015
+    second: mothgirl_back_4
+  - first:
+      213: -587399805375447274
+    second: mothgirl_back_5
+  - first:
+      213: 1861100102081278579
+    second: mothgirl_back_6
+  - first:
+      213: -816143639463151699
+    second: mothgirl_back_7
+  - first:
+      213: 8973748187062887732
+    second: mothgirl_back_8
+  - first:
+      213: 3459026645082190482
+    second: mothgirl_back_9
+  - first:
+      213: -928018171484386022
+    second: mothgirl_back_10
+  - first:
+      213: -4768946623573680819
+    second: mothgirl_back_11
+  - first:
+      213: -203129934290930597
+    second: mothgirl_back_12
+  - first:
+      213: 6340235558654053372
+    second: mothgirl_back_13
+  - first:
+      213: -1420447399847195816
+    second: mothgirl_back_14
+  - first:
+      213: -1318382621666603597
+    second: mothgirl_back_15
+  - first:
+      213: -6712834789845061959
+    second: mothgirl_back_16
+  - first:
+      213: 2035351690817470851
+    second: mothgirl_back_17
+  - first:
+      213: -6913060365882948117
+    second: mothgirl_back_18
+  - first:
+      213: 6873907555581362675
+    second: mothgirl_back_19
+  - first:
+      213: -1089599325541017325
+    second: mothgirl_back_20
+  - first:
+      213: -6685627604004796597
+    second: mothgirl_back_21
+  - first:
+      213: -4746274143445144380
+    second: mothgirl_back_22
+  - first:
+      213: -1094292779880647408
+    second: mothgirl_back_23
+  - first:
+      213: -7333211256222091228
+    second: mothgirl_back_24
+  - first:
+      213: -1188103089222301176
+    second: mothgirl_back_25
+  - first:
+      213: 4004032265503782061
+    second: mothgirl_back_26
+  - first:
+      213: 7184561693911526696
+    second: mothgirl_back_27
+  - first:
+      213: -8261603611553258591
+    second: mothgirl_back_28
+  - first:
+      213: -5648698948862264184
+    second: mothgirl_back_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mothgirl_back_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3585
+        width: 407
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b605163c6327290800000000000000
+      internalID: -7894186984047875285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 3586
+        width: 398
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ed72a7821cfe1d0800000000000000
+      internalID: -3319222020756480400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_2
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 3589
+        width: 387
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd9d98960ed31fb0800000000000000
+      internalID: -4678151467996176930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_3
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 3592
+        width: 374
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74de209e6f6310040800000000000000
+      internalID: 4612027927503236423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3084
+        width: 371
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c69974a437b69a0800000000000000
+      internalID: -6238766095925679015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3087
+        width: 365
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f767b3df229d7f0800000000000000
+      internalID: -587399805375447274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_6
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 3085
+        width: 358
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3727ffbaea4f3d910800000000000000
+      internalID: 1861100102081278579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_7
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 3082
+        width: 351
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7ba1c1fa97ca4f0800000000000000
+      internalID: -816143639463151699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2568
+        width: 343
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43560b16e68298c70800000000000000
+      internalID: 8973748187062887732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2567
+        width: 334
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2923cb0386ee00030800000000000000
+      internalID: 3459026645082190482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_10
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 2565
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dc09fc3640f13f0800000000000000
+      internalID: -928018171484386022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_11
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 2564
+        width: 316
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d9715105c41ddb0800000000000000
+      internalID: -4768946623573680819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2051
+        width: 308
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b543757a6665e2df0800000000000000
+      internalID: -203129934290930597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2050
+        width: 300
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb00e906aa0df750800000000000000
+      internalID: 6340235558654053372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_14
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 2049
+        width: 295
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b0bfd9d9e894ce0800000000000000
+      internalID: -1420447399847195816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_15
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2049
+        width: 292
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd838d9df924bde0800000000000000
+      internalID: -1318382621666603597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1537
+        width: 293
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bea663235837d2a0800000000000000
+      internalID: -6712834789845061959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1537
+        width: 296
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3818a2c34950f3c10800000000000000
+      internalID: 2035351690817470851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_18
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1539
+        width: 301
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be507b46930ef00a0800000000000000
+      internalID: -6913060365882948117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_19
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1542
+        width: 317
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f10d459086056f50800000000000000
+      internalID: 6873907555581362675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1033
+        width: 335
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3195f95bf27f0e0f0800000000000000
+      internalID: -1089599325541017325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_21
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1037
+        width: 354
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b478fbabd11e733a0800000000000000
+      internalID: -6685627604004796597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_22
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1034
+        width: 370
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cca45930d8d12eb0800000000000000
+      internalID: -4746274143445144380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_23
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1032
+        width: 386
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01570f6b38a40d0f0800000000000000
+      internalID: -1094292779880647408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 518
+        width: 399
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4287cf927333b3a90800000000000000
+      internalID: -7333211256222091228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 516
+        width: 408
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a4c520982038fe0800000000000000
+      internalID: -1188103089222301176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_26
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 515
+        width: 415
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da43e86912e219730800000000000000
+      internalID: 4004032265503782061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_27
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 514
+        width: 418
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82da9709bc0b4b360800000000000000
+      internalID: 7184561693911526696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2
+        width: 418
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3a8428943e85d80800000000000000
+      internalID: -8261603611553258591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothgirl_back_29
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1
+        width: 414
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c31fdeb3acb91b0800000000000000
+      internalID: -5648698948862264184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mothgirl_back_0: -7894186984047875285
+      mothgirl_back_1: -3319222020756480400
+      mothgirl_back_10: -928018171484386022
+      mothgirl_back_11: -4768946623573680819
+      mothgirl_back_12: -203129934290930597
+      mothgirl_back_13: 6340235558654053372
+      mothgirl_back_14: -1420447399847195816
+      mothgirl_back_15: -1318382621666603597
+      mothgirl_back_16: -6712834789845061959
+      mothgirl_back_17: 2035351690817470851
+      mothgirl_back_18: -6913060365882948117
+      mothgirl_back_19: 6873907555581362675
+      mothgirl_back_2: -4678151467996176930
+      mothgirl_back_20: -1089599325541017325
+      mothgirl_back_21: -6685627604004796597
+      mothgirl_back_22: -4746274143445144380
+      mothgirl_back_23: -1094292779880647408
+      mothgirl_back_24: -7333211256222091228
+      mothgirl_back_25: -1188103089222301176
+      mothgirl_back_26: 4004032265503782061
+      mothgirl_back_27: 7184561693911526696
+      mothgirl_back_28: -8261603611553258591
+      mothgirl_back_29: -5648698948862264184
+      mothgirl_back_3: 4612027927503236423
+      mothgirl_back_4: -6238766095925679015
+      mothgirl_back_5: -587399805375447274
+      mothgirl_back_6: 1861100102081278579
+      mothgirl_back_7: -816143639463151699
+      mothgirl_back_8: 8973748187062887732
+      mothgirl_back_9: 3459026645082190482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
